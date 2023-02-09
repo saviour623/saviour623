@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael Saviour
-- 👀 I’m interested in coding😁
-- 🌱 I’m currently learning...actually something huge
+- 👀 I’m interested in coding😁 
 - 💟 I code in C, C++, Python, JavaScript, nodereact
 - CSS & Html 5 for fun😎
 - 📫 Let's meet@saviourme33@gmail.com 
