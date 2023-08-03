@@ -62,5 +62,5 @@ My motto of being determined towards the software world and its development for 
 <p> 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=So,+let+me+tell+you;a+little+about+my+self+%3C3" alt="Title"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Artificial+Daughter&duration=3000&pause=100&center=true&repeat=true&width=500&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
   </div>
