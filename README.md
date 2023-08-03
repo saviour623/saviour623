@@ -12,7 +12,7 @@ I'm considerably interested in backend functionality and low level programming. 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 ## Personal Data
-* ```Education``` I studied computer science engineering at *African Leadership University, Mauritius (2020 - 2023)* and I'm currently studying a Mechanical Engineering (second degree) in *River's State University, River's State*.
+* ```Education``` I studied computer science engineering at *African Leadership University, Mauritius (2020 - 2023)* and I'm currently studying Mechanical Engineering (second career choice) in *River's State University, River's State*.
 * ```Location``` I'm currently living in *Earth*.
 * ```Skills``` Mathematics - Writing - Poetry - Programming - Graphic design and manipulation...
 * ```Hobbies``` Mathematics - Coding - Writing - Reading - Learning - Eating - Sleeping...
