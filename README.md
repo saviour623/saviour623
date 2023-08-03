@@ -6,17 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Michael+Saviour;Welcome+to+my+profile!" alt="Title"></img>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=So,+let+me+tell+you;a+little+about+my+self+%3C3" alt="Title"></img>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img> I'm a passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
-My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img> I'm a passionate individual who enjoys designing, testing and maintaining softwares and other of its related resources. I practicalize the implementation of well optimized, efficient and portable softwares which has prior usefulness in science and technology development.
+I've disciplined myself to manage many internal/external inconveniences to endeavor that my expectations is not below excellence.
+I'm considerably interested in backend functionality and low level programming. In mathematics, i find solace.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
-
-- :credit_card: My name is **Michael Saviour**
-
-- :school: I studied computer science engineering at **Afican Leadership University, Mauritius (Virtual)** and I'm currently a Mechanical Engineering Undergrad in **River's State University, PH**
-- :earth_asia: I'm currently living in **Earth**
-- :monocle_face: I'm interested in mathematics, poetry, coding, and making music
+## Personal Data
+* Education - I studied computer science engineering at *Afican Leadership University, Mauritius (2020 - 2023)* and I'm currently studying Mechanical Engineering in *River's State University, River's State*.
+* Location - I'm currently living in *Earth*.
+* Skills -: Mathematics - Writing - Poetry - Programming - Graphic design and manipulation...
+* Hobbies -: mathematics - Coding - Writing - Reading - Learning - Eating - Sleeping...
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack
 ### Languages
@@ -62,5 +61,5 @@ My motto of being determined towards the software world and its development for 
 <p> 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Artificial+Daughter&duration=3000&pause=100&center=true&repeat=true&width=500&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=100&center=true&repeat=true&width=500&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
   </div>
