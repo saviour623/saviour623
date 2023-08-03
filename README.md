@@ -1,9 +1,12 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saviour623?style=social"> &nbsp;&nbsp; <img alt="saviour623 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saviour623?style=social">&nbsp;<img alt="saviour623 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=447ff7&label=Visitor+count" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img> I'm a passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
+My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
@@ -11,7 +14,8 @@
 
 - :school: I studied computer science engineering at **Afican Leadership University, Mauritius (Virtual)** and I'm currently a Mechanical Engineering Undergrad in **River's State University, PH**
 - :earth_asia: I'm currently living in **Earth**
-- :monocle_face: I'm interested in mathematics, poetry, coding, and making music 
+- :monocle_face: I'm interested in mathematics, poetry, coding, and making music
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![C++](https://img.shields.io/badge/C++-%236DB33F.svg?style=for-the-badge&logo=C++&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-5C2D91?style=for-the-badge&logo=bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
