@@ -12,10 +12,10 @@ I'm considerably interested in backend functionality and low level programming. 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 ## Personal Data
-* Education - I studied computer science engineering at *Afican Leadership University, Mauritius (2020 - 2023)* and I'm currently studying Mechanical Engineering in *River's State University, River's State*.
-* Location - I'm currently living in *Earth*.
-* Skills -: Mathematics - Writing - Poetry - Programming - Graphic design and manipulation...
-* Hobbies -: mathematics - Coding - Writing - Reading - Learning - Eating - Sleeping...
+* ```Education``` I studied computer science engineering at *Afican Leadership University, Mauritius (2020 - 2023)* and I'm currently studying Mechanical Engineering in *River's State University, River's State*.
+* ```Location``` I'm currently living in *Earth*.
+* ```Skills``` Mathematics - Writing - Poetry - Programming - Graphic design and manipulation...
+* ```Hobbies``` Mathematics - Coding - Writing - Reading - Learning - Eating - Sleeping...
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack
 ### Languages
@@ -27,39 +27,33 @@ I'm considerably interested in backend functionality and low level programming. 
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whitehttps://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
-</img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviour623&layout=compact&show_icon=true&theme=algolia" alt="saviour623-langs"/> </img height="150em" src="https://github-readme-stats.vercel.app/api/?username=saviour623&layout=compact&show_icon=true&theme=algolia" alt="saviour623-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviour623&layout=compact&show_icon=true&theme=algolia" alt="saviour623-langs"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=saviour623&layout=compact&show_icon=true&theme=algolia" alt="saviour623-stats"/>
 </div>
 <div align="center">
-  </img src="http://github-readme-streak-stats.herokuapp.com?user=saviour623&theme=algolia&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=saviour623&theme=algolia&hide_border=true" />
   </div>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
-<p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/channel/UC0xovL51iHgLKwLptcgNpYQ" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
-  </a> &nbsp;&nbsp;
-<p> 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<h3 align="center">For any enquiry, contribution or feedback, contact me on any of the medium provided below: </h3>
 <div align="center">
+ <a href="mailto:saviourme33@gmail.com" >
+    <img align="center" alt="Saviour | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img align="center" alt="Saviour | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/mike/" target="_blank">
+      <img align="center" alt="Saviour | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/" target="_blank">
+    <img align="center" alt="Saviour| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/saviour623" target="_blank">
+    <img align="center" alt="Saviour | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=100&center=true&repeat=true&width=500&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
   </div>
