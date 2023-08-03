@@ -27,7 +27,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?saviour623&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=saviour623&theme=blueberry&hide_border=true" height=200em width=625em />
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
