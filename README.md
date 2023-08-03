@@ -3,9 +3,9 @@
 <img src="https://github.com/saviour623/saviour623/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Michael+Saviour;Welcome+to+my+profile!" alt="Title"></img>
 </div>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=So,+let+me+tell+you;a+little+about+my+self+%3C3" alt="Title"></img>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img> I'm a passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
