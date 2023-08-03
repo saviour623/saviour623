@@ -12,7 +12,7 @@ I'm considerably interested in backend functionality and low level programming. 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 ## Personal Data
-* ```Education``` I studied computer science engineering at *Afican Leadership University, Mauritius (2020 - 2023)* and I'm currently studying Mechanical Engineering in *River's State University, River's State*.
+* ```Education``` I studied computer science engineering at *African Leadership University, Mauritius (2020 - 2023)* and I'm currently studying a Mechanical Engineering (second degree) in *River's State University, River's State*.
 * ```Location``` I'm currently living in *Earth*.
 * ```Skills``` Mathematics - Writing - Poetry - Programming - Graphic design and manipulation...
 * ```Hobbies``` Mathematics - Coding - Writing - Reading - Learning - Eating - Sleeping...
@@ -54,6 +54,6 @@ I'm considerably interested in backend functionality and low level programming. 
   <a href="https://profile-summary-for-github.herokuapp.com/user/saviour623" target="_blank">
     <img align="center" alt="Saviour | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=100&center=true&repeat=true&width=500&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
+<p></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=100&center=true&repeat=true&width=450&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
   </div>
