@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saviour623?style=social">&nbsp;<img alt="saviour623 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=447ff7&label=Visitor+count" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saviour623?style=social">&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=447ff7&label=Visitor+count" />&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=blue" />
 <div align="center">
 <img src="https://github.com/saviour623/saviour623/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
 </div>
