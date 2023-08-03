@@ -1,4 +1,5 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saviour623?style=social">&nbsp;<img alt="saviour623 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=447ff7&label=Visitor+count" />
+<img src="https://github.com/saviour623/saviour623/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
