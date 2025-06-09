@@ -34,7 +34,7 @@ I'm considerably immersed in backend functionalities and low level programming. 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=saviour623&theme=algolia&hide_border=true" />
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<h3 align="center">For any enquiry, contribution or feedback, contact me on any of the medium provided below: </h3>
+<h4 align="center">For any enquiry, contribution or feedback, contact me on any of the medium provided below: </h4>
 <div align="center">
  <a href="mailto:saviourme33@gmail.com" >
     <img align="center" alt="Saviour | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
